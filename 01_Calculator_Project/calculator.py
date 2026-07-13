@@ -35,4 +35,3 @@ while True:
     if again.lower() != "yes":
         print("Thank you for using the Simple Calculator!")
         break
-   Improve calculator with repeat option
