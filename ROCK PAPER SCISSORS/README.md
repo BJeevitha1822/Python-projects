@@ -1,6 +1,6 @@
 Rock Paper Scissors
 
-Description
+#Description
 
     A simple Python game where the user plays Rock, Paper, Scissors against the computer.
     The computer randomly selects a choice, and the winner is decided based on the game rules.
