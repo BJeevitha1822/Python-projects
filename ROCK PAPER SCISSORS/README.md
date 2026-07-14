@@ -1,18 +1,18 @@
-Rock Paper Scissors
+ROCK PAPER SCISSORS
 
-#Description
+DESCRIPTION
 
-    A simple Python game where the user plays Rock, Paper, Scissors against the computer.
-    The computer randomly selects a choice, and the winner is decided based on the game rules.
+ -A simple Python game where the user plays Rock, Paper, Scissors against the computer.
+ -The computer randomly selects a choice, and the winner is decided based on the game rules.
 
-Features
+FEATURES
 
 - User vs Computer
 - Random computer choice
 - Winner announcement
 - Easy to understand code
 
-Concepts Used
+CONCEPTS USED
 
 - Variables
 - Input and Output
@@ -20,7 +20,7 @@ Concepts Used
 - Loops
 - Random Module
 
-Sample Output
+SAMPLE OUTPUT
 
 Enter your choice (rock/paper/scissors): rock
 Computer chose: scissors
