@@ -19,9 +19,18 @@ CONCEPTS USED
 - Loops
 - Random Module
 
+HOW TO RUN
+1. Make sure Python is installed.
+2. Open the project folder.
+3. Run the following command:
+
+python main.py
+
 SAMPLE OUTPUT
 
 Enter your choice (rock/paper/scissors): rock
 Computer chose: scissors
 You win!
-```
+
+Author
+Jeevitha B Add README for Rock Paper Scissor Project
